@@ -1,0 +1,17 @@
+body
+  {
+    background-color:#D7FFFD;
+  }
+hr
+  {
+    border-color: white;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-width: thick;
+    height: 2px;
+  }
+  h1
+    {
+      color:#75daad;
+    }
